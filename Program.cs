@@ -1,7 +1,11 @@
 ﻿/*
- * 
+ * OSI Model
+ * The OSI Model (Open Systems Interconnection) is a conceptual framework for understanding how different network protocols and technologies communicate with each other.
+ * IT was developed by the ISO (International Organization for Standardization) to promote interoperability between vendors and technologies.
+ * The OSI Model Consists of seven layers, each of which represents a specific set of functions or protocols.
  */
-using NetworkSimulator.OSI_Layers;
+
+using CyberSimulator.OSI_Layers;
 
 
 /*

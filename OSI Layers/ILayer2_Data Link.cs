@@ -1,4 +1,4 @@
-namespace NetworkSimulator.OSI_Layers;
+namespace CyberSimulator.OSI_Layers;
 
 /*
  * This layer provides error-free transmission of data across a physical link, using technologies such as error detection and correction.
